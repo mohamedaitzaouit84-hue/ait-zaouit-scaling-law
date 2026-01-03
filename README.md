@@ -1,6 +1,7 @@
 # Experimental Validation of the Universal Scaling Law of Emergent Causality
 
 ## 👤 Author: Ahmed Ait Zaouit
+orcid ID : https://orcid.org/0009-0007-3278-5577
 **Independent Researcher** **Location:** Salé, Morocco  
 **Field:** Quantum Information Theory & Spacetime Geometry
 
